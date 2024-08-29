@@ -1,3 +1,3 @@
 # This is my header test. 
 
-### ![Image of Apple] (https://static.agcanada.com/wp-content/uploads/sites/5/2018/11/apple_GettyImages186843005_cmyk.jpg)
+![Image of Apple] (https://pngimg.com/uploads/apple/apple_PNG12423.png)
